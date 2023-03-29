@@ -46,10 +46,10 @@ header h1 {
   margin-top: 1%;
   margin-left: 1%;
   margin-right: 1%;
-  border-color: #00ff7d;
-  border: 7px solid #00ff7d;
+  border-color: #00c4ff;
+  border: 7px solid #00c4ff;
   border-radius: 10px;
-  box-shadow: 0px 10px 0px 0px #00d17d;
+  box-shadow: 0px 10px 0px 0px #0099c7;
   position: relative;
   top: 0;
   text-transform: uppercase;
@@ -60,7 +60,7 @@ header h1 {
 .choice--button:active {
   position: relative;
   top: 5px;
-  box-shadow: 0px 5px 0px 0px #00d17d;
+  box-shadow: 0px 5px 0px 0px #0099c7;
 }
 .result--box {
   background-color: #fff;
@@ -70,10 +70,10 @@ header h1 {
   background-image: url(../images/Inter.svg);
   background-size: contain;
   background-position:center;
-  border-color: #00ff7d;
-  border: 7px solid #00ff7d;
+  border-color: #00c4ff;
+  border: 7px solid #00c4ff;
   border-radius: 10px;
-  box-shadow: 0px 15px 0px 0px #00d17d;
+  box-shadow: 0px 15px 0px 0px #0099c7;
   position: relative;
   flex-wrap: wrap;
   top: 0;
