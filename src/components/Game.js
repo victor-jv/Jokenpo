@@ -220,7 +220,7 @@ function Game() {
             value="Começar"
             onClick={savename}
           />
-          <div ref={divRef} id="meuDiv" className="result--table--texts">
+          <div ref={divRef} className="result--table--texts">
             <div className="centerP">
             <h2>PLACAR</h2>
             </div>
